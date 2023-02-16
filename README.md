@@ -11,8 +11,11 @@ Placeholder
 <details>
 <summary>Personal</summary>
 <br>
-1. 💸 Expense tracker <a href="https://github.com/senker/react-projects/tree/main/expense-tracker">[@]</a> [React.js <img src="https://user-images.githubusercontent.com/31960682/219422897-69e7435a-3f60-4977-8efd-28cdc07dee3f.svg" width="15" height="15">]
-   
+   <ol>
+      <li> 
+         💸 Expense tracker <a href="https://github.com/senker/react-projects/tree/main/expense-tracker">[@]</a> [React.js <img src="https://user-images.githubusercontent.com/31960682/219422897-69e7435a-3f60-4977-8efd-28cdc07dee3f.svg" width="15" height="15">] 
+      </li>
+   </ol>
   
 </details>
 
