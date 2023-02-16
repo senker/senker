@@ -5,7 +5,13 @@ Here you can find an overview of the university and personal projects I have bee
 <details>
 <summary>University projects</summary>
 <br>
-Placeholder
+
+   <ol>
+      <li> 
+         🍕 Wasteless (Three tier architecture, heterogeneous distributed system) <a href="https://github.com/senker/SEP3">[@]</a> [REST API, gRPC, Java Spring Boot, Blazor] 
+      </li>
+   </ol>
+   
 </details>
 
 <details>
