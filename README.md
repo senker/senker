@@ -11,7 +11,9 @@ Placeholder
 <details>
 <summary>Personal</summary>
 <br>
-Placeholder
+1. React <a href="https://github.com/senker/react-projects/tree/main/expense-tracker">expense tracker</a> 
+   
+  
 </details>
 
 
